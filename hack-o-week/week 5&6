@@ -1,5 +1,5 @@
-'''Linear algebra: vectors, matrices, dot product, eigenvalues (intuition-level)
-Calculus: derivatives, gradients, chain rule (for backprop intuition)'''
+"""Linear algebra: vectors, matrices, dot product, eigenvalues (intuition-level)
+Calculus: derivatives, gradients, chain rule (for backprop intuition)"""
 
 
 import numpy as np
